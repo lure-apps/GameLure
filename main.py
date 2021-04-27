@@ -1,1 +1,1 @@
-print("GameLure is in progress")
+print("GameLure is in progress!")
