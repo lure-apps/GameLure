@@ -1,4 +1,3 @@
-ACTIVE = False
 if ACTIVE is True:
   print("GameLure is ready!")
 else:
