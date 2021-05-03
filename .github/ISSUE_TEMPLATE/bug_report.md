@@ -1,9 +1,9 @@
 ---
-name: Bug report
+name: Website not working
 about: Create a report to help us improve
-title: ''
+title: 'Website not working'
 labels: ''
-assignees: ''
+assignees: 'ShivanshPlays1'
 
 ---
 
@@ -36,3 +36,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Do I have to fix it?**
+Say yes/no.
+
+**Is it really important**
+Say yes/no.
